@@ -1,0 +1,57 @@
+#h1tag1{
+    border: 25px dotted rgb(166, 0, 0);
+        background-color: silver;
+        padding: 10px;
+        margin: 20px ;
+        width: 150px;
+        height: 150px;
+        text-align: center;
+        float: none;
+}
+#ptag1{
+    font-style: italic;
+    float: none;
+}
+#royalists{
+    float: left;
+    border: 10px dotted red;
+    background-color: orange;
+    padding: 30px;
+    margin: 10px;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+
+}
+#parliamentarians {
+    float: right;
+        border: 10px dotted rgb(0, 0, 0);
+        background-color: silver;
+        padding: 30px;
+        margin: 10px;
+        text-align: center;
+        width: 50px;
+        height: 50px;
+
+}
+#royalistsp1{
+    float: left;
+    border: white 10px;
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    width: 300px;
+    height: 100px;
+}
+#parliamentariansp1{
+    float: right;
+    
+        border: white 10px;
+        background-color: white;
+        padding: 0px;
+        margin: 0px;
+        text-align: center;
+        width: 300px;
+        height: 100px;
+}
